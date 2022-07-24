@@ -1,2 +1,2 @@
-# Portfolio
-Repositorio donde se encuentra mi página web
+# Mí Portfolio
+Hola!, seas de dondé seas, estas són las especificaciones para poder compilar mi proyecto.
