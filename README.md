@@ -1,2 +1,2 @@
 # Mí Portfolio
-Hola!, seas de dondé seas, estas sn las especificaciones para poder compilar mi proyecto.
+Hola!, seas de dondé seas, estos son los pasos a seguir para poder compilar el proyecto.
