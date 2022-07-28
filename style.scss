@@ -1,0 +1,22 @@
+body{
+    margin:0;
+    padding:0;    
+}
+
+.photo{
+    max-height: auto;
+    max-width: 100px;
+}
+
+.nombre {
+    font-style:italic;
+    color:#30e939;
+    text-shadow: -1px 0 #000000, 0 1px #000000, 1px 0 #000000, 0 -1px #000000
+}
+
+h2.nombre{
+   color:#5530e9;
+}
+
+@import "./node_modules/bootstrap/scss/bootstrap.scss"
+
